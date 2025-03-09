@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package": "com.manfredbikes.baas",
+			"sha256_cert_fingerprints": [
+				"FF:29:F3:90:09:8C:F4:63:AF:58:44:E0:7C:B4:F5:A0:D5:58:D2:C4:B8:B8:9D:A6:CC:FF:93:56:E0:7B:F8:BE"
+			]
+		}
+	}
+]

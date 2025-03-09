@@ -1,0 +1,21 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": ["L7LAMSGWAK.com.manfredbikes.baas"],
+				"components": [
+					{
+						"/": "*",
+						"comment": "Matches all routes"
+					}
+				]
+			}
+		]
+	},
+	"activitycontinuation": {
+		"apps": ["L7LAMSGWAK.com.manfredbikes.baas"]
+	},
+	"webcredentials": {
+		"apps": ["L7LAMSGWAK.com.manfredbikes.baas"]
+	}
+}

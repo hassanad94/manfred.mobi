@@ -5,7 +5,8 @@
 			"namespace": "android_app",
 			"package": "com.manfredbikes.baas",
 			"sha256_cert_fingerprints": [
-				"FF:29:F3:90:09:8C:F4:63:AF:58:44:E0:7C:B4:F5:A0:D5:58:D2:C4:B8:B8:9D:A6:CC:FF:93:56:E0:7B:F8:BE"
+				"FF:29:F3:90:09:8C:F4:63:AF:58:44:E0:7C:B4:F5:A0:D5:58:D2:C4:B8:B8:9D:A6:CC:FF:93:56:E0:7B:F8:BE",
+				"DE:C6:6B:4B:33:D8:56:9B:AA:08:D7:30:EA:BD:1E:A4:EF:A7:7D:18:D3:4B:93:54:4B:AC:CD:6C:05:54:BC:1B"
 			]
 		}
 	}

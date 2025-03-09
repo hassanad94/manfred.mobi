@@ -23,12 +23,11 @@ export default function LandingPage() {
 		const isAndroid = /android/i.test(userAgent);
 
 		// App Store URL for iOS
-		const iOSAppStoreLink =
-			"itms-apps://itunes.apple.com/us/app/imdb-movies-tv/id342792525";
+		const iOSAppStoreLink = "itms-apps://apps.apple.com/us/app/manfred";
 
 		// Play Store URL for Android
 		const androidPlayStoreLink =
-			"https://play.google.com/store/apps/details?id=com.imdb.mobile";
+			"https://play.google.com/store/apps/details?id=com.manfredbikes.baas";
 
 		// Redirect based on the device
 		if (isIOS) {
